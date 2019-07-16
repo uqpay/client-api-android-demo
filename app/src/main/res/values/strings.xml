@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">UQPAY Client API Demo</string>
+  <string name="button_send">Pay With UnionPay</string>
+  <string name="orderInfo">Set the accept code which you get from the server </string>
+  <string name="installWallet">Please install UnionPay Wallet App</string>
+  <string name="paymentDone">The payment on client side is finished, you need call the server side to check the status of the order</string>
+</resources>

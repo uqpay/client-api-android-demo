@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">UQPAY Client API Demo</string>
+  <string name="button_send">银联支付</string>
+  <string name="orderInfo">从你的服务端获取UQPAY接口返回的accept code</string>
+  <string name="installWallet">请先安装银联云闪付</string>
+  <string name="paymentDone">支付在客户端的环节完成，请通过服务端获取订单的支付状态</string>
+</resources>
